@@ -2,6 +2,8 @@
 
 This PC program presents live F/T data from an ATI force/torque sensor in a graphical interface. F/T Data Viewer also allows the user to bias (zero/tare) sensor data, read the Status code, change units, apply sensor settings, and log data to a `.CSV` file. 
 
+Only the installer is provided. Source code is not provided for F/T Data Viewer. ATI *does* provide source code and example code snippets for other, simpler software. See "Other Resources" below.
+
 Latest version: v2.1.0
 
 ## Download
@@ -29,6 +31,7 @@ Download the [ATI F/T Data Viewer manual](https://www.ati-ia.com/app_content/doc
 
 - [Software Downloads](https://www.ati-ia.com/library/download.aspx)
   - From this page, download other ATI F/T software, such as the NET F/T Java Demo, which works on Linux.
+  - Source code available for Demo programs and example code snippets.
 - [F/T Documentation and Manuals](https://www.ati-ia.com/products/ft/ft_literature.aspx)
   - From this page, download F/T sensor system manuals for the [NET Box](https://www.ati-ia.com/app_content/documents/9620-05-NET%20FT.pdf), [Non-Axia sensors](https://www.ati-ia.com/app_content/documents/9620-05-Transducer%20Section.pdf), [NET Axia](https://www.ati-ia.com/app_content/documents/9610-05-Ethernet%20Axia.pdf), or [RS485 Axia](https://www.ati-ia.com/app_content/Documents/9610-05-Serial%20Axia.pdf) products.
 - [ATI Force/Torque Sensor FAQ](https://www.ati-ia.com/library/documents/FT_FAQ.pdf)
