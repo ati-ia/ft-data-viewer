@@ -22,3 +22,11 @@ Once downloaded, install the program by running (double-clicking) `FT Data Viewe
  ## Documentation
  
 Download the [ATI F/T Data Viewer manual](https://www.ati-ia.com/app_content/documents/9610-05-1042_Manual.pdf) from the *Software Documentation* section of the [*F/T Documentation and Manuals*](https://www.ati-ia.com/products/ft/ft_literature.aspx) page on the ATI website. The manual is kept up to date with the major release version downloaded from the ATI website. The manual may not yet cover behaviors or features in the latest minor release version available here on the GitHub repository.
+
+## Other Resources
+
+- [Software Downloads](https://www.ati-ia.com/library/download.aspx)
+  - From this page, download other ATI F/T software, such as the NET F/T Java Demo, which works on Linux.
+- [F/T Documentation and Manuals](https://www.ati-ia.com/products/ft/ft_literature.aspx)
+  - From this page, download F/T sensor system manuals for the [NET Box](https://www.ati-ia.com/app_content/documents/9620-05-NET%20FT.pdf), [Non-Axia sensors](https://www.ati-ia.com/app_content/documents/9620-05-Transducer%20Section.pdf), [NET Axia](https://www.ati-ia.com/app_content/documents/9610-05-Ethernet%20Axia.pdf), or [RS485 Axia](https://www.ati-ia.com/app_content/Documents/9610-05-Serial%20Axia.pdf) products.
+- [ATI Force/Torque Sensor FAQ](https://www.ati-ia.com/library/documents/FT_FAQ.pdf)
