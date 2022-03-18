@@ -12,7 +12,7 @@ The latest major release version is available on the ATI website, under the soft
 
 This GitHub repository contains the latest minor release version, which may contain new bug fixes and features compared to the latest major release version on the ATI website. This GitHub repository is updated more frequently than the ATI website. To download from here on GitHub, click the green *Code* button and select  *Download ZIP file*.
 
-Once downloaded, install the program by running (double-clicking) `FT Data Viewer Installer and Dependencies.exe`.  
+Once downloaded, unzip the folder. Inside the unzipped folder will be `FT Data Viewer Installer and Dependencies.exe` and `FT Data Viewer Installer.msi` (along with a `README.md` file). To ensure all dependencies are installed properly, install the program by running (double-clicking) `FT Data Viewer Installer and Dependencies.exe`. 
 
 ## System Requirements
 
