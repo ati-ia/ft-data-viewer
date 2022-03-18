@@ -2,7 +2,7 @@
 
 This PC program presents live F/T data from an ATI force/torque sensor in a graphical interface. F/T Data Viewer also allows the user to bias (zero/tare) sensor data, read the Status code, change units, apply sensor settings, and log data to a `.CSV` file. 
 
-Only the installer is provided. Source code is not provided for F/T Data Viewer. ATI *does* provide source code and example code snippets for other, simpler software. See "Other Resources" below.
+Only the installer is provided. Source code is not provided for F/T Data Viewer. ATI *does* provide source code and example code snippets for other, simpler, software. See "Other Resources" below.
 
 Latest version: v2.1.0
 
